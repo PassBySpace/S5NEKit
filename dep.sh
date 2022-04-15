@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./carthage.sh update --platform iOS --use-ssh
+./carthage.sh update --use-ssh
